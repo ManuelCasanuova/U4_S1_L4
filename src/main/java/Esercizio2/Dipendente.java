@@ -8,7 +8,7 @@ import lombok.Setter;
 
 @Getter
 @AllArgsConstructor
-@NoArgsConstructor
+
 public abstract class Dipendente {
     private String matricola;
     private double stipendio;
